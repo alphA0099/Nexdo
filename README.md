@@ -1,8 +1,14 @@
 # Nexdo
 
-**Nexdo 是一款集 Word、Excel、PPT、PDF 编辑与 AI 办公于一体的桌面软件。**
+**Nexdo 是一款集 Word、Excel、PPT、PDF 编辑与 AI 办公于一体的免费开源``桌面软件。**
 
-当前版本：**1.3.0**　适用平台：**Windows x64**　技术栈：**Tauri + Vue + Rust**
+作者：alphA0099/GHOST CLAW
+
+当前版本：**1.3.0**　
+
+适用平台：**Windows x64**　
+
+技术栈：**Tauri + Vue + Rust**
 
 Nexdo 支持本地文档编辑、Office/WPS 文件兼容、网页浏览与资料下载，并通过 **Nexdo AI** 直接完成写作、排版、表格整理、图片插入和文档管理。
 
@@ -41,13 +47,14 @@ Nexdo 支持本地文档编辑、Office/WPS 文件兼容、网页浏览与资料
 
 ## 支持格式
 
-| 类型 | 打开 / 导入 | 保存 / 导出 | 说明 |
-|---|---|---|---|
-| Word | DOCX、TXT、Markdown、HTML | DOCX、TXT、HTML、PDF | Nexdo 生成的 DOCX 支持精确状态恢复；其他 Office/WPS 文档保留常见原始样式并继续编辑 |
-| Excel | XLSX、XLS、CSV | XLSX、PDF | 支持单元格内容、颜色、行高和列宽 |
-| PowerPoint | PPTX | PPTX、PDF | 支持文字框、图片和主题编辑 |
-| PDF | PDF | PDF、图片等 | 支持图文识别与页面编辑 |
-| 其他 | 图片、DXF 等转换来源 | 图片、PDF、OFD 等 | 以“转换”面板提供的功能为准 |
+
+| 类型       | 打开 / 导入               | 保存 / 导出          | 说明                                                                               |
+| ---------- | ------------------------- | -------------------- | ---------------------------------------------------------------------------------- |
+| Word       | DOCX、TXT、Markdown、HTML | DOCX、TXT、HTML、PDF | Nexdo 生成的 DOCX 支持精确状态恢复；其他 Office/WPS 文档保留常见原始样式并继续编辑 |
+| Excel      | XLSX、XLS、CSV            | XLSX、PDF            | 支持单元格内容、颜色、行高和列宽                                                   |
+| PowerPoint | PPTX                      | PPTX、PDF            | 支持文字框、图片和主题编辑                                                         |
+| PDF        | PDF                       | PDF、图片等          | 支持图文识别与页面编辑                                                             |
+| 其他       | 图片、DXF 等转换来源      | 图片、PDF、OFD 等    | 以“转换”面板提供的功能为准                                                       |
 
 复杂 Office/WPS 排版和第三方 PDF 的实际还原效果会受到原文件结构、字体及嵌入对象影响。
 
@@ -66,16 +73,17 @@ AI 会调用软件内工具执行操作，而不只是给出文字建议。使�
 
 ## 常用快捷键
 
-| 操作 | 快捷键 |
-|---|---|
-| 保存文档 | `Ctrl + S` |
-| 撤销最近 20 步 | `Ctrl + Z` |
-| 重做 | `Ctrl + Y` 或 `Ctrl + Shift + Z` |
-| 删除空白页 | 在空白页顶端按 `Backspace` |
-| 打印文档 | `Ctrl + P` |
-| 缩放 Word / Excel / PPT | `Ctrl + 鼠标滚轮` |
-| 多处选择文字 | 按住 `Ctrl + Alt` 分别拖选 |
-| 搜索文档内容或功能 | `Alt + Q` |
+
+| 操作                    | 快捷键                           |
+| ----------------------- | -------------------------------- |
+| 保存文档                | `Ctrl + S`                       |
+| 撤销最近 20 步          | `Ctrl + Z`                       |
+| 重做                    | `Ctrl + Y` 或 `Ctrl + Shift + Z` |
+| 删除空白页              | 在空白页顶端按`Backspace`        |
+| 打印文档                | `Ctrl + P`                       |
+| 缩放 Word / Excel / PPT | `Ctrl + 鼠标滚轮`                |
+| 多处选择文字            | 按住`Ctrl + Alt` 分别拖选        |
+| 搜索文档内容或功能      | `Alt + Q`                        |
 
 多处选择后，点击加粗、字号、字体颜色等工具，可统一设置所有选区。
 
