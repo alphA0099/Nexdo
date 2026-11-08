@@ -1,6 +1,6 @@
 # Nexdo
 
-**Nexdo 是一款集 Word、Excel、PPT等编辑与 AI 办公于一体的免费开源``桌面软件。**
+**Nexdo 是一款完全由 AI 操控的免费开源办公软件。**
 
 作者：alphA0099/GHOST CLAW
 
