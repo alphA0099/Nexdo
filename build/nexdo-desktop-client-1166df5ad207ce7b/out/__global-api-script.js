@@ -1,0 +1,1 @@
+["\\\\?\\C:\\Users\\19625\\.cargo\\registry\\src\\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\\tauri-2.12.5\\scripts\\bundle.global.js"]

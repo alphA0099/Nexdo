@@ -1,0 +1,11 @@
+D:\ghost_Project\Nexdo\src-tauri\target\release\deps\bzip2-179a7c2e08b4c89b.d: C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\bzip2-0.4.4\src\lib.rs C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\bzip2-0.4.4\src\mem.rs C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\bzip2-0.4.4\src\bufread.rs C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\bzip2-0.4.4\src\read.rs C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\bzip2-0.4.4\src\write.rs
+
+D:\ghost_Project\Nexdo\src-tauri\target\release\deps\libbzip2-179a7c2e08b4c89b.rlib: C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\bzip2-0.4.4\src\lib.rs C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\bzip2-0.4.4\src\mem.rs C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\bzip2-0.4.4\src\bufread.rs C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\bzip2-0.4.4\src\read.rs C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\bzip2-0.4.4\src\write.rs
+
+D:\ghost_Project\Nexdo\src-tauri\target\release\deps\libbzip2-179a7c2e08b4c89b.rmeta: C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\bzip2-0.4.4\src\lib.rs C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\bzip2-0.4.4\src\mem.rs C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\bzip2-0.4.4\src\bufread.rs C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\bzip2-0.4.4\src\read.rs C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\bzip2-0.4.4\src\write.rs
+
+C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\bzip2-0.4.4\src\lib.rs:
+C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\bzip2-0.4.4\src\mem.rs:
+C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\bzip2-0.4.4\src\bufread.rs:
+C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\bzip2-0.4.4\src\read.rs:
+C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\bzip2-0.4.4\src\write.rs:

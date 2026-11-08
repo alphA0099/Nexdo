@@ -1,0 +1,7 @@
+D:\ghost_Project\Nexdo\src-tauri\target\release\deps\phf_generator-66d13cdc88eb78ed.d: C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\phf_generator-0.13.1\src\lib.rs
+
+D:\ghost_Project\Nexdo\src-tauri\target\release\deps\libphf_generator-66d13cdc88eb78ed.rlib: C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\phf_generator-0.13.1\src\lib.rs
+
+D:\ghost_Project\Nexdo\src-tauri\target\release\deps\libphf_generator-66d13cdc88eb78ed.rmeta: C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\phf_generator-0.13.1\src\lib.rs
+
+C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\phf_generator-0.13.1\src\lib.rs:

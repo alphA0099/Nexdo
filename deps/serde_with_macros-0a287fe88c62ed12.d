@@ -1,0 +1,8 @@
+D:\ghost_Project\Nexdo\src-tauri\target\release\deps\serde_with_macros-0a287fe88c62ed12.d: C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\serde_with_macros-3.24.0\src\lib.rs C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\serde_with_macros-3.24.0\src\apply.rs C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\serde_with_macros-3.24.0\src\lazy_bool.rs C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\serde_with_macros-3.24.0\src\utils.rs
+
+D:\ghost_Project\Nexdo\src-tauri\target\release\deps\serde_with_macros-0a287fe88c62ed12.dll: C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\serde_with_macros-3.24.0\src\lib.rs C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\serde_with_macros-3.24.0\src\apply.rs C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\serde_with_macros-3.24.0\src\lazy_bool.rs C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\serde_with_macros-3.24.0\src\utils.rs
+
+C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\serde_with_macros-3.24.0\src\lib.rs:
+C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\serde_with_macros-3.24.0\src\apply.rs:
+C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\serde_with_macros-3.24.0\src\lazy_bool.rs:
+C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\serde_with_macros-3.24.0\src\utils.rs:

@@ -1,0 +1,10 @@
+D:\ghost_Project\Nexdo\src-tauri\target\release\deps\cargo_toml-b74fcbcf766a2681.d: C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\cargo_toml-1.0.1\src\cargo_toml.rs C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\cargo_toml-1.0.1\src\afs.rs C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\cargo_toml-1.0.1\src\error.rs C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\cargo_toml-1.0.1\src\inheritable.rs
+
+D:\ghost_Project\Nexdo\src-tauri\target\release\deps\libcargo_toml-b74fcbcf766a2681.rlib: C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\cargo_toml-1.0.1\src\cargo_toml.rs C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\cargo_toml-1.0.1\src\afs.rs C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\cargo_toml-1.0.1\src\error.rs C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\cargo_toml-1.0.1\src\inheritable.rs
+
+D:\ghost_Project\Nexdo\src-tauri\target\release\deps\libcargo_toml-b74fcbcf766a2681.rmeta: C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\cargo_toml-1.0.1\src\cargo_toml.rs C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\cargo_toml-1.0.1\src\afs.rs C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\cargo_toml-1.0.1\src\error.rs C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\cargo_toml-1.0.1\src\inheritable.rs
+
+C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\cargo_toml-1.0.1\src\cargo_toml.rs:
+C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\cargo_toml-1.0.1\src\afs.rs:
+C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\cargo_toml-1.0.1\src\error.rs:
+C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\cargo_toml-1.0.1\src\inheritable.rs:

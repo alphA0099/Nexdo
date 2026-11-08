@@ -1,0 +1,10 @@
+D:\ghost_Project\Nexdo\src-tauri\target\release\deps\icu_normalizer-928b05b1691a519b.d: C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\icu_normalizer-2.4.0\src\lib.rs C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\icu_normalizer-2.4.0\src\properties.rs C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\icu_normalizer-2.4.0\src\provider.rs C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\icu_normalizer-2.4.0\src\uts46.rs
+
+D:\ghost_Project\Nexdo\src-tauri\target\release\deps\libicu_normalizer-928b05b1691a519b.rlib: C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\icu_normalizer-2.4.0\src\lib.rs C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\icu_normalizer-2.4.0\src\properties.rs C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\icu_normalizer-2.4.0\src\provider.rs C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\icu_normalizer-2.4.0\src\uts46.rs
+
+D:\ghost_Project\Nexdo\src-tauri\target\release\deps\libicu_normalizer-928b05b1691a519b.rmeta: C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\icu_normalizer-2.4.0\src\lib.rs C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\icu_normalizer-2.4.0\src\properties.rs C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\icu_normalizer-2.4.0\src\provider.rs C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\icu_normalizer-2.4.0\src\uts46.rs
+
+C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\icu_normalizer-2.4.0\src\lib.rs:
+C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\icu_normalizer-2.4.0\src\properties.rs:
+C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\icu_normalizer-2.4.0\src\provider.rs:
+C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\icu_normalizer-2.4.0\src\uts46.rs:

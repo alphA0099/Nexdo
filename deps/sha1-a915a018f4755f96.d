@@ -1,0 +1,10 @@
+D:\ghost_Project\Nexdo\src-tauri\target\release\deps\sha1-a915a018f4755f96.d: C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\sha1-0.10.7\src\lib.rs C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\sha1-0.10.7\src\compress.rs C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\sha1-0.10.7\src\compress\soft.rs C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\sha1-0.10.7\src\compress\x86.rs
+
+D:\ghost_Project\Nexdo\src-tauri\target\release\deps\libsha1-a915a018f4755f96.rlib: C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\sha1-0.10.7\src\lib.rs C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\sha1-0.10.7\src\compress.rs C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\sha1-0.10.7\src\compress\soft.rs C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\sha1-0.10.7\src\compress\x86.rs
+
+D:\ghost_Project\Nexdo\src-tauri\target\release\deps\libsha1-a915a018f4755f96.rmeta: C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\sha1-0.10.7\src\lib.rs C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\sha1-0.10.7\src\compress.rs C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\sha1-0.10.7\src\compress\soft.rs C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\sha1-0.10.7\src\compress\x86.rs
+
+C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\sha1-0.10.7\src\lib.rs:
+C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\sha1-0.10.7\src\compress.rs:
+C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\sha1-0.10.7\src\compress\soft.rs:
+C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\sha1-0.10.7\src\compress\x86.rs:

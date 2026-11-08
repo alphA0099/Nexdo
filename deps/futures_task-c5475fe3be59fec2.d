@@ -1,0 +1,10 @@
+D:\ghost_Project\Nexdo\src-tauri\target\release\deps\futures_task-c5475fe3be59fec2.d: C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\futures-task-0.3.34\src\lib.rs C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\futures-task-0.3.34\src\spawn.rs C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\futures-task-0.3.34\src\future_obj.rs C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\futures-task-0.3.34\src\noop_waker.rs
+
+D:\ghost_Project\Nexdo\src-tauri\target\release\deps\libfutures_task-c5475fe3be59fec2.rlib: C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\futures-task-0.3.34\src\lib.rs C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\futures-task-0.3.34\src\spawn.rs C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\futures-task-0.3.34\src\future_obj.rs C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\futures-task-0.3.34\src\noop_waker.rs
+
+D:\ghost_Project\Nexdo\src-tauri\target\release\deps\libfutures_task-c5475fe3be59fec2.rmeta: C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\futures-task-0.3.34\src\lib.rs C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\futures-task-0.3.34\src\spawn.rs C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\futures-task-0.3.34\src\future_obj.rs C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\futures-task-0.3.34\src\noop_waker.rs
+
+C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\futures-task-0.3.34\src\lib.rs:
+C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\futures-task-0.3.34\src\spawn.rs:
+C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\futures-task-0.3.34\src\future_obj.rs:
+C:\Users\19625\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda\futures-task-0.3.34\src\noop_waker.rs:
