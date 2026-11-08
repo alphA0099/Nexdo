@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Nexdo 使用流程</title>
+  <desc id="desc">新建或导入、编辑或 AI 处理、保存并导出三个步骤</desc>
+  <rect width="1200" height="300" rx="24" fill="#f5f8fd"/>
+  <g font-family="Microsoft YaHei, sans-serif">
+    <g><rect x="75" y="62" width="280" height="170" rx="22" fill="#fff" stroke="#dbe5f3"/><circle cx="215" cy="112" r="28" fill="#e7efff"/><text x="215" y="122" text-anchor="middle" fill="#3267d6" font-size="28">＋</text><text x="215" y="169" text-anchor="middle" fill="#24334a" font-size="20" font-weight="700">新建或导入</text><text x="215" y="200" text-anchor="middle" fill="#7a889d" font-size="14">Word · Excel · PPT · PDF</text></g>
+    <g><rect x="460" y="62" width="280" height="170" rx="22" fill="#fff" stroke="#dbe5f3"/><circle cx="600" cy="112" r="28" fill="#e9e8ff"/><text x="600" y="122" text-anchor="middle" fill="#5654d8" font-size="25">✦</text><text x="600" y="169" text-anchor="middle" fill="#24334a" font-size="20" font-weight="700">编辑或 AI 处理</text><text x="600" y="200" text-anchor="middle" fill="#7a889d" font-size="14">写作 · 排版 · 表格 · 图片</text></g>
+    <g><rect x="845" y="62" width="280" height="170" rx="22" fill="#fff" stroke="#dbe5f3"/><circle cx="985" cy="112" r="28" fill="#e4f5ed"/><text x="985" y="121" text-anchor="middle" fill="#27966a" font-size="25">✓</text><text x="985" y="169" text-anchor="middle" fill="#24334a" font-size="20" font-weight="700">保存并导出</text><text x="985" y="200" text-anchor="middle" fill="#7a889d" font-size="14">本地保存 · Office · PDF</text></g>
+    <g fill="#9aadd0" font-size="28"><text x="397" y="157">→</text><text x="782" y="157">→</text></g>
+  </g>
+</svg>
